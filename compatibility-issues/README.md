@@ -1,4 +1,6 @@
 # Compatibility Issues
+For possible fixes have a look at [Legacy-Edge/Legacy-Edge-Extensions](https://github.com/Legacy-Edge/Legacy-Edge-Extensions).
+
 ## JS
 - [ ] Regex
 - [ ] object?.method() not working
