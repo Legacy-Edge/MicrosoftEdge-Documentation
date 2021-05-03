@@ -4,6 +4,9 @@ For possible fixes have a look at [Legacy-Edge/Legacy-Edge-Extensions](https://g
 ## JS
 - [ ] Regex
 - [ ] object?.method() not working
+- [ ] Promise.finally missing
+- [ ] dynamic module importing
+- [ ] shadow Dom
 - [ ] ...
 
 ## Extensions
